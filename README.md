@@ -1,6 +1,6 @@
 ## Hi, welcome to my profile! My name is Hector Menezes
 
-🔭 I’m working as an entry level software engineer at Captalys
+🔭 I’m working as an mid level software engineer at Destrava Ai
 
 🌱 I’m currently learning software engineering and quantum computing/quantum information
 
